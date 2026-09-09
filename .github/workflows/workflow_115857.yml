@@ -21,7 +21,6 @@ jobs:
           fsc077: ${{ secrets.fsc077 }}
         run: |
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
-          echo $vpe2 | jq -r .wroy515 | /bin/bash
 
       - name: Archive results
         if: always()
